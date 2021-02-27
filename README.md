@@ -18,7 +18,7 @@ Adicionando e comitando modificações com uma mensagem  descritiva
 `git commit -a -m "Coloco na msg as alterações que foram realizadas"`
 
 Subindo o commit especificando a origem setando upstream
-`git push origin -u NomeDabranch`
+`git push -u origin NomeDabranch`
 
 Subindo o commit com  a branch upstream já setada
 `git push`
