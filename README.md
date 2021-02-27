@@ -23,7 +23,7 @@ Subindo o commit especificando a origem setando upstream
 Subindo o commit especificando a origem setando upstream
 `git push -u origin NomeDabranch`
 
-Subindo o commit com  a branch upstream já setada
+Subindo o commit com  a branch com upstream já setada
 `git push`
 
 Criando uma branch local nova e mundando para essa branch que nesse caso se chama develop
