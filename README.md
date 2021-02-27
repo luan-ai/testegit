@@ -8,7 +8,6 @@ Verificando modificações realizadas
 Adicionando modificações especifica para o arquivo
 `git add NomeDoArquivo.extension`
 
-teste
 Adicionando todas modificações
 `git add --all` 
 
@@ -17,3 +16,9 @@ Comitando modificações com uma mensagem
 
 Adicionando e comitando modificações com uma mensagem  descritiva
 `git commit -a -m "Coloco na msg as alterações que foram realizadas"`
+
+Subindo o commit especificando a origem
+`git push origin NomeDabranch`
+
+Subindo o commit com  a branch upstream já setada
+`git push`
