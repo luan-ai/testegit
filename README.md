@@ -12,3 +12,7 @@ Adicionando modificações especifica para o arquivo
 
 Adicionando todas modificações
 `git add --all` 
+
+Comitando modificações com uma mensagem
+
+`git commit -m "Coloco na msg as alterações que foram realizadas"
