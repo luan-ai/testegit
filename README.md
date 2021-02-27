@@ -1,6 +1,6 @@
 # Treinando git
 
-## Comandos git 
+## Comandos básicos git 
 
 Verificando modificações realizadas
 `git status`
@@ -17,8 +17,8 @@ Comitando modificações com uma mensagem
 Adicionando e comitando modificações com uma mensagem  descritiva
 `git commit -a -m "Coloco na msg as alterações que foram realizadas"`
 
-Subindo o commit especificando a origem
-`git push origin NomeDabranch`
+Subindo o commit especificando a origem setando upstream
+`git push origin -u NomeDabranch`
 
 Subindo o commit com  a branch upstream já setada
 `git push`
