@@ -8,6 +8,7 @@ Verificando modificações realizadas
 Adicionando modificações especifica para o arquivo
 `git add NomeDoArquivo.extension`
 
+teste
 Adicionando todas modificações
 `git add --all` 
 
