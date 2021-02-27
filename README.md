@@ -15,4 +15,6 @@ Adicionando todas modificações
 
 Comitando modificações com uma mensagem
 
-`git commit -m "Coloco na msg as alterações que foram realizadas"
+`git commit -m "Coloco na msg as alterações que foram realizadas"`
+
+
