@@ -22,3 +22,5 @@ Subindo o commit especificando a origem
 
 Subindo o commit com  a branch upstream já setada
 `git push`
+
+Kkkkkkkk 
