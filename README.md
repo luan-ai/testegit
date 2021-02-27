@@ -5,7 +5,7 @@
 Verificando modificações realizadas
 `git status`
 
-Adicionando modificações especifica para o arquivo
+Adicionando modificações especifica para o cd ..
 `git add NomeDoArquivo.extension`
 
 Adicionando todas modificações
@@ -23,4 +23,15 @@ Subindo o commit especificando a origem setando upstream
 Subindo o commit com  a branch upstream já setada
 `git push`
 
-Kkkkkkkk 
+`git checkout -b develop`
+
+`git checkout develop`
+
+`git checkout -`
+
+`git branch`
+
+`git stash`
+
+`git stash apply`
+
